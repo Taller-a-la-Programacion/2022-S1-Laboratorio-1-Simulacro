@@ -62,8 +62,8 @@ Sus parámetros de entrada deben ser:
 -	Además, No negativos
 -	Si el valor de tipoServicio es:
   -	1, se calcula el impuesto con 13%
-  -	2, se calcula el impuesto con 2%
-  -	3, se calcula el impuesto con 6%
+  - 2, se calcula el impuesto con 2%
+  - 3, se calcula el impuesto con 6%
 
 El resultado debe ser el monto más el impuesto de IVA calculado
 
