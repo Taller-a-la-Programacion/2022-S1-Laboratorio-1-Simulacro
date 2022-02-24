@@ -21,7 +21,7 @@ El resultado debe ser la división entre el dividendo y el divisor
 >>> division(0, 2)
 0
 >>> division(10, 10)
-10
+1
 >>> division(10, 15)
 “Error: El divisor es mayor que el dividendo”
 >>> division(10, 0)
