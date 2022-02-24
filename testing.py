@@ -11,7 +11,7 @@ def test_division_2():
     assert Laboratorio01.division(0, 2) == 0
 
 def test_division_3():
-    assert Laboratorio01.division(10, 10) == 10
+    assert Laboratorio01.division(10, 10) == 1
     
 def test_division_4():
     assert isinstance(Laboratorio01.division(10, 15), str) == isinstance("Error: El divisor es mayor que el dividendo", str)
